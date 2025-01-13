@@ -9,7 +9,23 @@
       "sections": [
         {
           "id": "1-1",
-          "blocks": [],
+          "blocks": [
+            {
+              "id": "box-id-2039097791",
+              "x": 0,
+              "y": 0,
+              "width": 1268,
+              "height": 901,
+              "xpath": "/html[1]/body[1]/div[3]/div[1]/div[2]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(75, 0, 130, 0.4)",
+              "mapping": "header",
+              "customBlockName": "header"
+            }
+          ],
           "settings": {}
         }
       ]
@@ -20,7 +36,128 @@
       "sections": [
         {
           "id": "2-1",
-          "blocks": [],
+          "blocks": [
+            {
+              "id": "box-id-1528563583",
+              "x": 0,
+              "y": 965,
+              "width": 634,
+              "height": 606,
+              "xpath": "/html[1]/body[1]/div[4]/div[1]/div[1]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(0, 0, 255, 0.4)",
+              "mapping": "defaultContent",
+              "customBlockName": "aiblock1"
+            },
+            {
+              "id": "box-id-1528563614",
+              "x": 634,
+              "y": 965,
+              "width": 634,
+              "height": 606,
+              "xpath": "/html[1]/body[1]/div[4]/div[1]/div[2]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgba(0, 0, 255, 0.4)",
+              "mapping": "defaultContent",
+              "customBlockName": "aiblock2"
+            },
+            {
+              "id": "box-id--1102402178",
+              "x": 152,
+              "y": 1631,
+              "width": 1268,
+              "height": 478,
+              "xpath": "/html[1]/body[1]/div[5]",
+              "layout": {
+                "numCols": 1,
+                "numRows": 2
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[5]/div[1]",
+                  "xpathWithDetails": "/html[@class=\"js\"]/body[@class=\"home page-template-default page page-id-13 wp-custom-logo wp-embed-responsive fl-builder-2-8-5-1 singular enable-search-modal missing-post-thumbnail has-no-pagination not-showing-comments hide-avatars footer-top-visible\"]/div[@class=\"container Ourstories\"]/div[@class=\"col-6 .col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[5]/div[2]",
+                  "xpathWithDetails": "/html[@class=\"js\"]/body[@class=\"home page-template-default page page-id-13 wp-custom-logo wp-embed-responsive fl-builder-2-8-5-1 singular enable-search-modal missing-post-thumbnail has-no-pagination not-showing-comments hide-avatars footer-top-visible\"]/div[@class=\"container Ourstories\"]/div[@class=\"row text-center\"]"
+                }
+              ],
+              "color": "rgb(0, 255, 0)",
+              "mapping": "cards",
+              "customBlockName": "aicards1"
+            },
+            {
+              "id": "box-id--1102402147",
+              "x": 152,
+              "y": 2158,
+              "width": 1268,
+              "height": 1366,
+              "xpath": "/html[1]/body[1]/div[6]",
+              "layout": {
+                "numCols": 2,
+                "numRows": 6
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[3]",
+                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[4]",
+                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[5]",
+                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[6]",
+                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[7]",
+                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[8]",
+                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[9]",
+                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[10]",
+                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[11]",
+                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[6]/div[1]/div[12]",
+                  "xpathWithDetails": "id(\"mediaReleases\")/div[@class=\"row\"]/div[@class=\"col-6 .col-sm-6\"]"
+                }
+              ],
+              "color": "rgb(255, 255, 0)",
+              "mapping": "columns",
+              "customBlockName": "aicolumns1"
+            }
+          ],
           "settings": {}
         }
       ]
@@ -31,7 +168,33 @@
       "sections": [
         {
           "id": "3-1",
-          "blocks": [],
+          "blocks": [
+            {
+              "id": "box-id--953139808",
+              "x": 0,
+              "y": 3524,
+              "width": 1268,
+              "height": 489,
+              "xpath": "/html[1]/body[1]/footer[1]",
+              "layout": {
+                "numCols": 1,
+                "numRows": 2
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/footer[1]/div[1]",
+                  "xpathWithDetails": "id(\"site-footer\")/div[@class=\"container-fluid\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/footer[1]/div[2]",
+                  "xpathWithDetails": "id(\"site-footer\")/div[@class=\"row terms\"]"
+                }
+              ],
+              "color": "rgb(255, 127, 0)",
+              "mapping": "defaultContent",
+              "customBlockName": "aifooter1"
+            }
+          ],
           "settings": {}
         }
       ]
